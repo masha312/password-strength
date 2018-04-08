@@ -1,4 +1,4 @@
-# password strength check
+## password strength check
 <img src="screens/2018-04-08_18-07-57.png">
 <img src="screens/2018-04-08_18-08-26.png">
 <img src="screens/2018-04-08_18-09-03.png">
