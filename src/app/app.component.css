@@ -1,0 +1,7 @@
+.ng-progress-bar {
+    z-index: 999999 !important;
+    top: 30px !important;
+    left: 30px !important;
+    width: 50% !important;
+    position: absolute !important;
+  }
