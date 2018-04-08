@@ -1,3 +1,10 @@
+# password strength check
+<img src="screens/2018-04-08_18-07-57.png">
+<img src="screens/2018-04-08_18-08-26.png">
+<img src="screens/2018-04-08_18-09-03.png">
+<img src="screens/2018-04-08_18-09-20.png">
+<img src="screens/2018-04-08_18-10-00.png">
+
 # Password
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
@@ -25,4 +32,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# Password Strength Project
